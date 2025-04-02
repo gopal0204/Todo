@@ -73,4 +73,6 @@ The app should now be running on [http://localhost:3000](http://localhost:3000)
 - **Backend:** Node.js, Express.js, Mongoose  
 - **Database:** MongoDB (Atlas)  
 
+![Screenshot 2025-04-02 161732](https://github.com/user-attachments/assets/3eb8b88e-3ecb-4269-8720-59a943a927bb)
+![Screenshot 2025-04-02 161924](https://github.com/user-attachments/assets/2dc210d5-a2a0-4e67-8312-934452557cf2)
 
